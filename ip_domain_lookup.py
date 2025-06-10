@@ -12,10 +12,10 @@ import time
 
 console = Console()
 
-ABUSEIPDB_API_KEY = ""
-VIRUSTOTAL_API_KEY = ""
-SHODAN_API_KEY = ""
-SECURITYTRAILS_API_KEY = ""
+ABUSEIPDB_API_KEY = "enter your API key"
+VIRUSTOTAL_API_KEY = "enter your API key"
+SHODAN_API_KEY = "enter your API key"
+SECURITYTRAILS_API_KEY = "enter your API key"
 
 def run():
     console.print("[cyan]Enter the IP/Domain to analyze:[/cyan]")
