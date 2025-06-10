@@ -4,7 +4,7 @@
 
 ![CyberTrail-BANNER](https://raw.githubusercontent.com/cryptdefender323/CyberTrail/20f864ea9ec2f030fa455682379c279eff43aa57/ChatGPT%20Image%2010%20Jun%202025%2C%2017.57.18.png) 
 
-# CyberTrail adalah alat forensik digital dan red team assessment yang dirancang untuk membantu profesional keamanan siber mengumpulkan informasi publik secara real-time dan otomatis. Dengan integrasi API resmi seperti VirusTotal, Shodan, SecurityTrails, dan teknik scraping Google Search, CyberTrail menyediakan data nyata tanpa menggunakan dummy atau simulasi.
+CyberTrail adalah alat forensik digital dan red team assessment yang dirancang untuk membantu profesional keamanan siber mengumpulkan informasi publik secara real-time dan otomatis. Dengan integrasi API resmi seperti VirusTotal, Shodan, SecurityTrails, dan teknik scraping Google Search, CyberTrail menyediakan data nyata tanpa menggunakan dummy atau simulasi.
 
 ## Fitur Utama:
 - 🔍 **WHOIS Lookup**
