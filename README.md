@@ -22,3 +22,5 @@ git clone https://github.com/cryptdefender323/CyberTrail.git
 cd CyberTrail
 pip3 install -r requirements.txt
 python3 main.py
+
+Tools ini masih dalam tahap pengembangan dan akan terus diperbarui untuk menjadi lebih baik
