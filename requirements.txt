@@ -1,7 +1,0 @@
-rich
-requests
-beautifulsoup4
-Pillow
-opencv-python
-selenium
-tensorflow==2.10.0
