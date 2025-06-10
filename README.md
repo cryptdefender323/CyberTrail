@@ -15,8 +15,11 @@ Fitur utama:
 
 Alat ini ideal untuk investigasi forensik, analisis ancaman siber, dan red team assessment. Semua hasil disimpan dalam format JSON, CSV, atau PDF untuk referensi di masa mendatang.
 
-Link Repository: [https://github.com/cryptdefender323/CyberTrail](https://github.com/cryptdefender323/CyberTrail) 
+📦 Installation
 
+git clone https://github.com/cryptdefender323/CyberTrail.git
+cd CyberTrail
+python3 main.py
 Tools ini masih dalam tahap pengembangan dan akan terus diperbarui untuk menjadi lebih baik
 
 #ForensikDigital #RedTeamAssessment #CyberSecurity #GitHubProject
