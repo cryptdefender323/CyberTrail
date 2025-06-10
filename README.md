@@ -17,6 +17,6 @@ Alat ini ideal untuk investigasi forensik, analisis ancaman siber, dan red team 
 
 Link Repository: [https://github.com/cryptdefender323/CyberTrail](https://github.com/cryptdefender323/CyberTrail) 
 
-Jika ada pertanyaan atau masukan, DM saya! 💬
+Tools ini masih dalam tahap pengembangan dan akan terus diperbarui untuk menjadi lebih baik
 
 #ForensikDigital #RedTeamAssessment #CyberSecurity #GitHubProject
