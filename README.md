@@ -1,4 +1,4 @@
-![CyberTrail-BANNER](https://github.com/cryptdefender323/CyberTrail/blob/62ccbe2a87c6d21071cf93eb681794f63394e563/ChatGPT%20Image%2010%20Jun%202025%2C%2017.50.56.png)
+![CyberTrail-BANNER](https://github.com/cryptdefender323/CyberTrail/blob/20f864ea9ec2f030fa455682379c279eff43aa57/ChatGPT%20Image%2010%20Jun%202025%2C%2017.57.18.png)
 # CyberTrail
 
 🚀 CyberTrail: Alat Forensik Digital & Red Team Assessment 🚀
