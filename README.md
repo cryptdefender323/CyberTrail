@@ -18,6 +18,9 @@ Alat ini ideal untuk investigasi forensik, analisis ancaman siber, dan red team 
 
 Tools ini masih dalam tahap pengembangan dan akan terus diperbarui untuk menjadi lebih baik
 
+⚠️ CryptDefender hanya dapat dijalankan menggunakan Python versi 3.7 atau lebih baru.
+Pastikan Anda menggunakan versi Python terbaru untuk kompatibilitas penuh dan performa maksimal.
+
 ## Instalasi
 ```bash
 git clone https://github.com/cryptdefender323/CyberTrail.git 
