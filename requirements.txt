@@ -1,8 +1,10 @@
 rich
 requests
 beautifulsoup4
+lxml
 Pillow
 opencv-python
 selenium
 tensorflow==2.10.0
 deepface
+exifread
