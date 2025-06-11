@@ -43,18 +43,19 @@ def show_menu():
     console.print("[1] Metadata Extractor with Threat Analysis")
     console.print("[2] Deep Reverse Image Search")
     console.print("[3] Advanced IP/Domain Intel Lookup")
-    console.print("[4] Username Search Aggregator")
-    console.print("[5] Dark Web Search")
+    console.print("[4] People Search Aggregator")
+    console.print("[5] Username Search Aggregator")
+    console.print("[6] Dark Web Search")
     console.print("[99] Exit")
 
 def run_module(name, func):
     try:
-        console.print(f"[yellow]↪ Running {name}... (Press Ctrl+C to cancel)[/yellow]")
+        console.print(f"[yellow]↪ Menjalankan {name}... (Tekan Ctrl+C untuk membatalkan)[/yellow]")
         func()
     except KeyboardInterrupt:
         console.print(f"\n[red]❌ {name} dibatalkan oleh pengguna.[/red]")
     except Exception as e:
-        console.print(f"[red]✘ Error dalam modul {name}: {e}[/red]")
+        console.print(f"[red]✘ Terjadi error dalam modul {name}: {e}[/red]")
     finally:
         pause_return()
 
